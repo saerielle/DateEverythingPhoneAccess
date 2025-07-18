@@ -20,3 +20,4 @@ Disabled apps during conversations:
 * all of the character-interaction apps and using Dateviators on the phone (those do not work mid-conversation anyway)
 
 ## Download
+https://github.com/saerielle/DateEverythingPhoneAccess/releases
